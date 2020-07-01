@@ -48,3 +48,10 @@ https://xjy333.obs.cn-north-4.myhuaweicloud.com:443/efficientdet/efficientdet-d7
 DOTA：
 R3det-res50:
 https://xjy333.obs.cn-north-4.myhuaweicloud.com:443/dota/epoch_24.pth?AccessKeyId=D5OC3QF6CKUTNH0UQOHH&Expires=1596180025&Signature=u%2Brne2ochFYH4LLaEE15lPeTfHs%3D
+
+sublime2:
+https://xjy333.obs.cn-north-4.myhuaweicloud.com:443/software/Sublime%20Text%202.0.2a%20x64%20Setup.exe?AccessKeyId=D5OC3QF6CKUTNH0UQOHH&Expires=1596181434&Signature=cqxkqNza/R1UYqOxjM7eTxDLsaE%3D
+
+sublime3:
+https://xjy333.obs.cn-north-4.myhuaweicloud.com:443/software/Sublime%20Text%20Build%203211%20x64%20Setup.exe?AccessKeyId=D5OC3QF6CKUTNH0UQOHH&Expires=1596181454&Signature=y8d7F0vjwxRG8%2BsMDOHdGF/R7ww%3D
+
