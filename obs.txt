@@ -3,3 +3,48 @@ https://xjy333.obs.cn-north-4.myhuaweicloud.com:443/resnext/resnext101_32x4d-a5a
 
 # ResXt101-32d-wsl
 https://xjy333.obs.cn-north-4.myhuaweicloud.com:443/resnext/ig_resnext101_32x8-c38310e5.pth?AccessKeyId=D5OC3QF6CKUTNH0UQOHH&Expires=1596097634&Signature=wCyOfPWxEifmF3Gvu4C18XPAAKk%3D
+
+# Resxt101-64d
+https://xjy333.obs.cn-north-4.myhuaweicloud.com:443/resnext/resnext101_64x4d-ee2c6f71.pth?AccessKeyId=D5OC3QF6CKUTNH0UQOHH&Expires=1596179572&Signature=FBKgpAeNHzxihvaFRXYefeN8qtQ%3D
+
+# Efficient
+B0
+https://xjy333.obs.cn-north-4.myhuaweicloud.com:443/efficient/efficientnet-b0-08094119.pth.zip?AccessKeyId=D5OC3QF6CKUTNH0UQOHH&Expires=1596179664&Signature=fiKJOmwV0N9H3/axmdcmMCjAVlo%3D
+
+B3
+https://xjy333.obs.cn-north-4.myhuaweicloud.com:443/efficient/efficientnet-b3-c8376fa2.pth.zip?AccessKeyId=D5OC3QF6CKUTNH0UQOHH&Expires=1596179690&Signature=yd/2oqVgNJBE90tH7C8OUlrWs/o%3D
+
+B4
+https://xjy333.obs.cn-north-4.myhuaweicloud.com:443/efficient/efficientnet-b4-e116e8b3.pth.zip?AccessKeyId=D5OC3QF6CKUTNH0UQOHH&Expires=1596179707&Signature=x0G9ccZSLWgaJ1HePHVtVxxi2Zw%3D
+
+B5
+https://xjy333.obs.cn-north-4.myhuaweicloud.com:443/efficient/efficientnet-b5-586e6cc6.pth.zip?AccessKeyId=D5OC3QF6CKUTNH0UQOHH&Expires=1596179725&Signature=GgAznGtVvULQAFwcGHVN4yIwrmU%3D
+
+B6
+https://xjy333.obs.cn-north-4.myhuaweicloud.com:443/efficient/efficientnet-b6-c76e70fd.pth.zip?AccessKeyId=D5OC3QF6CKUTNH0UQOHH&Expires=1596179747&Signature=azkRUGfe/Tx5SlsyJd%2B7jAkpSLo%3D
+
+B7
+https://xjy333.obs.cn-north-4.myhuaweicloud.com:443/efficient/efficientnet-b7-dcc49843.pth.zip?AccessKeyId=D5OC3QF6CKUTNH0UQOHH&Expires=1596179769&Signature=XzJ9GL74O%2BD3BVFCciyrGxy63fg%3D
+
+# EfficientDet(yet)
+D2
+https://xjy333.obs.cn-north-4.myhuaweicloud.com:443/efficientdet/efficientdet-d2.pth?AccessKeyId=D5OC3QF6CKUTNH0UQOHH&Expires=1596179851&Signature=qdPSKcwLhPdLDxNYJdAYAchYTBU%3D
+
+D3
+https://xjy333.obs.cn-north-4.myhuaweicloud.com:443/efficientdet/efficientdet-d3.pth?AccessKeyId=D5OC3QF6CKUTNH0UQOHH&Expires=1596179880&Signature=vzguDcvXWfHzBM2kzJ7gMTxvLWA%3D
+
+D4
+https://xjy333.obs.cn-north-4.myhuaweicloud.com:443/efficientdet/efficientdet-d4.pth?AccessKeyId=D5OC3QF6CKUTNH0UQOHH&Expires=1596179898&Signature=8wfaEGJjUsGm1ajHQGbec%2BMomdk%3D
+
+D5
+https://xjy333.obs.cn-north-4.myhuaweicloud.com:443/efficientdet/efficientdet-d5.pth?AccessKeyId=D5OC3QF6CKUTNH0UQOHH&Expires=1596179931&Signature=vhcyT0lDekvst1ywzpUqFo4m4yg%3D
+
+D6
+https://xjy333.obs.cn-north-4.myhuaweicloud.com:443/efficientdet/efficientdet-d6.pth?AccessKeyId=D5OC3QF6CKUTNH0UQOHH&Expires=1596179950&Signature=OXYmZYN1gYCAGYdr8bwFRon%2BQ%2BA%3D
+
+D7
+https://xjy333.obs.cn-north-4.myhuaweicloud.com:443/efficientdet/efficientdet-d7.pth?AccessKeyId=D5OC3QF6CKUTNH0UQOHH&Expires=1596179967&Signature=b5ogoZQG%2Bep1z8WoWhx2y66X/KY%3D
+
+DOTA：
+R3det-res50:
+https://xjy333.obs.cn-north-4.myhuaweicloud.com:443/dota/epoch_24.pth?AccessKeyId=D5OC3QF6CKUTNH0UQOHH&Expires=1596180025&Signature=u%2Brne2ochFYH4LLaEE15lPeTfHs%3D
