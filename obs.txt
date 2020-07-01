@@ -1,0 +1,5 @@
+# Resxt101-32d
+https://xjy333.obs.cn-north-4.myhuaweicloud.com:443/resnext/resnext101_32x4d-a5af3160.pth?AccessKeyId=D5OC3QF6CKUTNH0UQOHH&Expires=1596097322&Signature=XPQVC7epYhzCAxOf9YbrcMICbLs%3D   
+
+# ResXt101-32d-wsl
+https://xjy333.obs.cn-north-4.myhuaweicloud.com:443/resnext/ig_resnext101_32x8-c38310e5.pth?AccessKeyId=D5OC3QF6CKUTNH0UQOHH&Expires=1596097634&Signature=wCyOfPWxEifmF3Gvu4C18XPAAKk%3D
