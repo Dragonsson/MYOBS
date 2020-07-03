@@ -55,3 +55,6 @@ https://xjy333.obs.cn-north-4.myhuaweicloud.com:443/software/Sublime%20Text%202.
 sublime3:
 https://xjy333.obs.cn-north-4.myhuaweicloud.com:443/software/Sublime%20Text%20Build%203211%20x64%20Setup.exe?AccessKeyId=D5OC3QF6CKUTNH0UQOHH&Expires=1596181454&Signature=y8d7F0vjwxRG8%2BsMDOHdGF/R7ww%3D
 
+fcos-res50:
+
+https://xjy333.obs.cn-north-4.myhuaweicloud.com:443/fcos_r50_caffe_fpn_1x_4gpu_20200218-c229552f.pth?AccessKeyId=D5OC3QF6CKUTNH0UQOHH&Expires=1596353577&Signature=tCDT6e7nYaDKUy5Xn8yLBSiDRIc%3D
