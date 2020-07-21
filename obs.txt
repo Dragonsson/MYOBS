@@ -65,3 +65,7 @@ https://xjy333.obs.cn-north-4.myhuaweicloud.com:443/software/AerialDetection-mas
 
 faster-rcnn res50:
 https://xjy333.obs.cn-north-4.myhuaweicloud.com:443/coco/models/faster_rcnn_r50_fpn_1x_coco_20200130-047c8118.pth?AccessKeyId=D5OC3QF6CKUTNH0UQOHH&Expires=1597400109&Signature=3llSPK9Csm6V3hKN/3aBwyQyn70%3D
+
+
+typora:
+https://xjy333.obs.cn-north-4.myhuaweicloud.com:443/software/typora-setup-x64.exe?AccessKeyId=D5OC3QF6CKUTNH0UQOHH&Expires=1597925164&Signature=D83tF3QHdmgKswPSejhtPBkyeD8%3D
