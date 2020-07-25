@@ -69,3 +69,6 @@ https://xjy333.obs.cn-north-4.myhuaweicloud.com:443/coco/models/faster_rcnn_r50_
 
 typora:
 https://xjy333.obs.cn-north-4.myhuaweicloud.com:443/software/typora-setup-x64.exe?AccessKeyId=D5OC3QF6CKUTNH0UQOHH&Expires=1597925164&Signature=D83tF3QHdmgKswPSejhtPBkyeD8%3D
+
+mmdetv2.0:
+https://xjy333.obs.cn-north-4.myhuaweicloud.com:443/mmdetection-master.zip?AccessKeyId=D5OC3QF6CKUTNH0UQOHH&Expires=1598251749&Signature=bcyqtaCNkV9VZlZOpWjvzPd8IvY%3D
