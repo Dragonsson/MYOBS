@@ -74,3 +74,7 @@ mmdetv2.0:
 https://xjy333.obs.cn-north-4.myhuaweicloud.com:443/mmdetection-master.zip?AccessKeyId=D5OC3QF6CKUTNH0UQOHH&Expires=1598251749&Signature=bcyqtaCNkV9VZlZOpWjvzPd8IvY%3D
 DetectoRS_X101：
 https://xjy333.obs.cn-north-4.myhuaweicloud.com:443/DetectoRS_X101-ed983634.pth?AccessKeyId=D5OC3QF6CKUTNH0UQOHH&Expires=1598422709&Signature=Gj97eAPl55Bv/aFq%2BZcVZ0orJxI%3D
+
+
+resnext101-32d:
+https://xjy333.obs.cn-north-4.myhuaweicloud.com:443/resnext/resnext101_32x4d-a5af3160.pth?AccessKeyId=D5OC3QF6CKUTNH0UQOHH&Expires=1598451094&Signature=o6RrEqot3P9pQAoukw4ckPM6%2BSc%3D
