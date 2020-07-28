@@ -78,3 +78,6 @@ https://xjy333.obs.cn-north-4.myhuaweicloud.com:443/DetectoRS_X101-ed983634.pth?
 
 resnext101-32d:
 https://xjy333.obs.cn-north-4.myhuaweicloud.com:443/resnext/resnext101_32x4d-a5af3160.pth?AccessKeyId=D5OC3QF6CKUTNH0UQOHH&Expires=1598451094&Signature=o6RrEqot3P9pQAoukw4ckPM6%2BSc%3D
+
+res50:
+https://xjy333.obs.cn-north-4.myhuaweicloud.com:443/imagenet/resnet50-19c8e357%20%281%29.pth?AccessKeyId=D5OC3QF6CKUTNH0UQOHH&Expires=1598492862&Signature=tgf0yDSp/oKRLqA1ABWkXY%2BRhnY%3D
