@@ -81,3 +81,12 @@ https://xjy333.obs.cn-north-4.myhuaweicloud.com:443/resnext/resnext101_32x4d-a5a
 
 res50:
 https://xjy333.obs.cn-north-4.myhuaweicloud.com:443/imagenet/resnet50-19c8e357%20%281%29.pth?AccessKeyId=D5OC3QF6CKUTNH0UQOHH&Expires=1598492862&Signature=tgf0yDSp/oKRLqA1ABWkXY%2BRhnY%3D
+
+TensorRT-7.2.3.4-ubuntu1604
+https://mydata-xjy.obs.cn-north-4.myhuaweicloud.com:443/HIK/TensorRT-7.2.3.4.Ubuntu-16.04.x86_64-gnu.cuda-10.2.cudnn8.1.tar.gz?AccessKeyId=91QQZTR4EFCUKVRDBEMV&Expires=1623857605&Signature=Zp4pGdmpU70aDCn42yqyoNEWp3I%3D
+
+TensorRT-7.2.3.4-ubuntu1804
+https://mydata-xjy.obs.cn-north-4.myhuaweicloud.com:443/HIK/TensorRT-7.2.3.4.Ubuntu-18.04.x86_64-gnu.cuda-10.2.cudnn8.1.tar.gz?AccessKeyId=91QQZTR4EFCUKVRDBEMV&Expires=1623857936&Signature=E1gtZ/vUS0ac2nrLi4fCcp47pyY%3D
+
+TensorRT-8.0.0.3
+https://mydata-xjy.obs.cn-north-4.myhuaweicloud.com:443/HIK/TensorRT-8.0.0.3.Linux.x86_64-gnu.cuda-10.2.cudnn8.2.tar.gz?AccessKeyId=91QQZTR4EFCUKVRDBEMV&Expires=1623857971&Signature=sJdmSxauW4a7KpM4wukmzsxasyI%3D
