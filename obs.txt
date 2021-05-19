@@ -90,3 +90,6 @@ https://mydata-xjy.obs.cn-north-4.myhuaweicloud.com:443/HIK/TensorRT-7.2.3.4.Ubu
 
 TensorRT-8.0.0.3
 https://mydata-xjy.obs.cn-north-4.myhuaweicloud.com:443/HIK/TensorRT-8.0.0.3.Linux.x86_64-gnu.cuda-10.2.cudnn8.2.tar.gz?AccessKeyId=91QQZTR4EFCUKVRDBEMV&Expires=1623857971&Signature=sJdmSxauW4a7KpM4wukmzsxasyI%3D
+
+TensorRT-cuda11.1
+https://mydata-xjy.obs.cn-north-4.myhuaweicloud.com:443/HIK/TensorRT-7.2.3.4.Ubuntu-18.04.x86_64-gnu.cuda-11.1.cudnn8.1.tar.gz?AccessKeyId=91QQZTR4EFCUKVRDBEMV&Expires=1622594689&Signature=PnlNfvRq71JNyiDaoH8OoZawl4c%3D
